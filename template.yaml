@@ -1,0 +1,16 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: An AWS Lambda application written in Rust.
+Globals:
+  Function:
+    Timeout: 10
+Resources:
+  RustLambdaFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      Handler: bootstrap
+      Runtime: provided.al2
+      CodeUri: ./target/x86_64-unknown-linux-musl/release/bootstrap.zip
+      Environment:
+        Variables:
+          RUST_BACKTRACE: 1
