@@ -1,0 +1,16 @@
+C:\Users\osama\Desktop\Sem 2\DE\Rust-Lambda-Logging-Monitoring\target\debug\deps\libaws_types-8ef4a4f415369392.rmeta: C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-1.1.8\src\lib.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-1.1.8\src\app_name.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-1.1.8\src\build_metadata.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-1.1.8\src\endpoint_config.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-1.1.8\src\os_shim_internal.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-1.1.8\src\region.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-1.1.8\src\request_id.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-1.1.8\src\sdk_config.rs C:\Users\osama\Desktop\Sem\ 2\DE\Rust-Lambda-Logging-Monitoring\target\debug\build\aws-types-7c009648fb47f9a8\out/build_env.rs
+
+C:\Users\osama\Desktop\Sem 2\DE\Rust-Lambda-Logging-Monitoring\target\debug\deps\aws_types-8ef4a4f415369392.d: C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-1.1.8\src\lib.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-1.1.8\src\app_name.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-1.1.8\src\build_metadata.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-1.1.8\src\endpoint_config.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-1.1.8\src\os_shim_internal.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-1.1.8\src\region.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-1.1.8\src\request_id.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-1.1.8\src\sdk_config.rs C:\Users\osama\Desktop\Sem\ 2\DE\Rust-Lambda-Logging-Monitoring\target\debug\build\aws-types-7c009648fb47f9a8\out/build_env.rs
+
+C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-1.1.8\src\lib.rs:
+C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-1.1.8\src\app_name.rs:
+C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-1.1.8\src\build_metadata.rs:
+C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-1.1.8\src\endpoint_config.rs:
+C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-1.1.8\src\os_shim_internal.rs:
+C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-1.1.8\src\region.rs:
+C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-1.1.8\src\request_id.rs:
+C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-1.1.8\src\sdk_config.rs:
+C:\Users\osama\Desktop\Sem\ 2\DE\Rust-Lambda-Logging-Monitoring\target\debug\build\aws-types-7c009648fb47f9a8\out/build_env.rs:
+
+# env-dep:CARGO_PKG_VERSION=1.1.8
+# env-dep:OUT_DIR=C:\\Users\\osama\\Desktop\\Sem 2\\DE\\Rust-Lambda-Logging-Monitoring\\target\\debug\\build\\aws-types-7c009648fb47f9a8\\out
