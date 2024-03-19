@@ -100,3 +100,31 @@ To view these logs, you can go to the CloudWatch console in AWS, navigate to "Lo
 Remember to set the `RUST_LOG` environment variable in your Lambda function configuration to control the log level. For example, setting `RUST_LOG=info` will log all messages with `info!`, `warn!`, `error!`, etc., but not `debug!`.
 
 ![alt text](image-2.png)
+
+### X-Ray Tracing
+
+This AWS Lambda function has active AWS X-Ray tracing enabled. This can be activated in the AWS Console by following these steps:
+
+1. Navigate to the AWS Lambda service in the AWS Console.
+2. Select the function for which you want to enable X-Ray tracing.
+3. In the "Configuration" tab, select "Monitoring and operations tools".
+4. In the "AWS X-Ray" section, select "Enable active tracing".
+
+The screenshot below shows the configuration for enabling active tracing in the AWS Console.
+
+![alt text](image-3.png)
+
+Once active tracing is enabled, AWS X-Ray collects data about the requests that your application serves and provides tools you can use to view, filter, and gain insights into that data to identify issues and opportunities for optimization.
+
+You can view the X-Ray insights in the AWS X-Ray Console by following these steps:
+
+1. Navigate to the AWS X-Ray service in the AWS Console.
+2. In the "Service map" or "Traces" sections, you can view the traces for your Lambda function.
+
+By using AWS X-Ray, you can achieve the following:
+
+- **Understand application behavior**: You can see how requests flow through your application to identify bottlenecks and latencies.
+- **Troubleshoot issues**: You can use the detailed information provided by X-Ray to troubleshoot performance issues and errors.
+- **Optimize performance**: By understanding where bottlenecks are occurring, you can optimize your application to improve performance.
+
+However, it's important to note that as of now, there's no official AWS X-Ray SDK for Rust. This means that you can't manually instrument your code to create custom segments or subsegments, which can provide more detailed tracing information. You can only rely on the automatic instrumentation provided by AWS Lambda, which includes information about the Lambda service and the function execution, but not about the internal workings of your code.
