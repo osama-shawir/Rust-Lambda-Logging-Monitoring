@@ -1,0 +1,12 @@
+C:\Users\osama\Desktop\Sem 2\DE\Rust-Lambda-Logging-Monitoring\target\debug\deps\libuuid-ee034be4451d2a95.rmeta: C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.7.0\src\lib.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.7.0\src\builder.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.7.0\src\error.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.7.0\src\parser.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.7.0\src\fmt.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.7.0\src\timestamp.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.7.0\src\external.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.7.0\src\macros.rs
+
+C:\Users\osama\Desktop\Sem 2\DE\Rust-Lambda-Logging-Monitoring\target\debug\deps\uuid-ee034be4451d2a95.d: C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.7.0\src\lib.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.7.0\src\builder.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.7.0\src\error.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.7.0\src\parser.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.7.0\src\fmt.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.7.0\src\timestamp.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.7.0\src\external.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.7.0\src\macros.rs
+
+C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.7.0\src\lib.rs:
+C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.7.0\src\builder.rs:
+C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.7.0\src\error.rs:
+C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.7.0\src\parser.rs:
+C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.7.0\src\fmt.rs:
+C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.7.0\src\timestamp.rs:
+C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.7.0\src\external.rs:
+C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-1.7.0\src\macros.rs:

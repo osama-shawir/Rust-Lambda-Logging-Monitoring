@@ -1,0 +1,10 @@
+C:\Users\osama\Desktop\Sem 2\DE\Rust-Lambda-Logging-Monitoring\target\release\deps\liblambda_runtime-a7f01cc75972d312.rmeta: C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lambda_runtime-0.3.0\src\lib.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lambda_runtime-0.3.0\src\client.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lambda_runtime-0.3.0\src\requests.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lambda_runtime-0.3.0\src\types.rs
+
+C:\Users\osama\Desktop\Sem 2\DE\Rust-Lambda-Logging-Monitoring\target\release\deps\liblambda_runtime-a7f01cc75972d312.rlib: C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lambda_runtime-0.3.0\src\lib.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lambda_runtime-0.3.0\src\client.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lambda_runtime-0.3.0\src\requests.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lambda_runtime-0.3.0\src\types.rs
+
+C:\Users\osama\Desktop\Sem 2\DE\Rust-Lambda-Logging-Monitoring\target\release\deps\lambda_runtime-a7f01cc75972d312.d: C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lambda_runtime-0.3.0\src\lib.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lambda_runtime-0.3.0\src\client.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lambda_runtime-0.3.0\src\requests.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lambda_runtime-0.3.0\src\types.rs
+
+C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lambda_runtime-0.3.0\src\lib.rs:
+C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lambda_runtime-0.3.0\src\client.rs:
+C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lambda_runtime-0.3.0\src\requests.rs:
+C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lambda_runtime-0.3.0\src\types.rs:
